@@ -46,7 +46,7 @@ class _MyAppState extends State<MyApp> {
   ];
   var _questionIndex = 0;
   var _totalScore = 0;
-
+//TODO: Buraları widget yap
   void _resetQuiz() {
     setState(() {
       _questionIndex = 0;
